@@ -1,0 +1,161 @@
+body {
+	background-color : #808080 ;
+	color: #000000;
+	margin: auto;
+}
+
+
+div {
+	border: #000000 solid 1px; 
+	display: inline-block;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-radius: 6px;
+	font-size: 1.1em;
+}
+.person {
+	width: 100%;
+	height: 10%;
+	padding: none;
+	border-radius: 0px;
+}
+
+
+.name {
+	width: 25%;
+	height: 10%;
+	background-color: #696969;
+	color: #000000;
+	
+	
+}
+
+.in {
+	width: 10%;
+	height: 10%;
+	background-color: #00FF00 
+	
+}
+
+.out {
+	width: 10%;
+	height: 10%;
+	background-color: #FF0000
+	
+}
+
+.onsite {
+	width: 10%;
+	height: 10%;
+	background-color: #FFFF00; 
+}
+
+
+.name-in {
+	width: 25%;
+	height: 10%;
+	background-color: #00FF00;
+	color: #000000;
+	
+}
+.name-out {
+	width: 25%;
+	height: 10%;
+	background-color: #FF0000;
+	color: #000000;
+	
+}
+.name-onsite {
+	width: 25%;
+	height: 10%;
+	background-color: #FFFF00;
+	color: #000000;
+	
+}
+
+.notes {
+	width: 25%;
+	height: 10%;
+	background-color: #ffffff;
+	display: inline-block;
+	font-size: .8em;
+	padding: none;
+	margin: none;
+	position: relative;
+}
+
+.n {
+	width: 60%;
+	height: 80%;
+	border: none;
+	padding: none;
+
+}
+
+
+.an {
+	font-size: .7em;
+	padding: none;
+	float: right ;
+	border-radius: 6px;
+
+
+
+}
+
+.dn {
+	font-size: .7em;
+	padding: none;
+	float: right;
+	border-radius: 6px;
+
+	
+}
+
+.notebox {
+	width: 600px;
+	height: 100px;
+	left: 600px;
+	border: #000000 solid 2px;
+	border-radius: 6px;
+	background-color: #FFFFFF;
+	position: fixed;
+
+} 
+
+.btn {
+	background-color: #00bfff; 
+	padding: 3px;
+	float: right;
+	border-radius: 6px;
+}
+
+.form-control {
+	width: 500px;
+	height: 75px;
+}
+
+.guest {
+	width: 25%;
+	height: 10%;
+	background-color: #00ff00;
+}
+
+.guests {
+	width: 100%;
+	height: 10%;
+	padding: none;
+	border-radius: 0px;
+}
+
+.SI {
+	left: 100px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.SI-input {
+	border: none;
+
+}
