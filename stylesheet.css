@@ -15,7 +15,7 @@ div {
 	font-size: 1.1em;
 }
 .person {
-	width: 100%;
+	width: 95%;
 	height: 10%;
 	padding: none;
 	border-radius: 0px;
@@ -114,9 +114,9 @@ div {
 }
 
 .notebox {
-	width: 600px;
+	width: 25%;
 	height: 100px;
-	left: 600px;
+	left: 25%;
 	border: #000000 solid 2px;
 	border-radius: 6px;
 	background-color: #FFFFFF;
@@ -132,7 +132,7 @@ div {
 }
 
 .form-control {
-	width: 500px;
+	width: 90%;
 	height: 75px;
 }
 
