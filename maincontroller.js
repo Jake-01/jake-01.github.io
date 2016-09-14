@@ -12,6 +12,12 @@ app.controller("MainController", ['$scope',  function($scope) {
             
 			
 		}
+		{
+			person: 'Rob',
+			name: 'name'
+            
+			
+		}
 	];
 
 
