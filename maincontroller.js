@@ -70,6 +70,7 @@ app.controller("MainController", ['$scope',  function($scope) {
     }
     
     $scope.GL = true;
+    $scope.toggle = true;
 
 
 }]);
