@@ -11,7 +11,7 @@ app.controller("MainController", ['$scope',  function($scope) {
 			name: 'name'
             
 			
-		}
+		},
 		{
 			person: 'Rob',
 			name: 'name'
