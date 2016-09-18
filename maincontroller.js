@@ -1,10 +1,7 @@
-app.controller("MainController", ['$scope',  function($scope, $firebase) {
+app.controller("MainController", ['$scope',  function($scope) {
 	 
 
-     var url = "https://ebsinout.firebaseio.com/inout";
-    angularFire(url, $scope, "inout").then(function(){
-
-    var inout = $scope.inout;
+  
 
     $scope.pers = [
 		{
@@ -73,6 +70,6 @@ app.controller("MainController", ['$scope',  function($scope, $firebase) {
     $scope.GL = true;
     $scope.toggle = true;
     
-    });
+    
 
 }]);
